@@ -1,4 +1,4 @@
-# Port Knocker
+# Colourful Nmap
 Tool used to simplify and colour code nmap output so that it is easier to read.
 
 
